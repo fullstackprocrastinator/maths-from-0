@@ -1,2 +1,2 @@
-# maths-from-0
-Learn mathematics from the ground up starting at 0.
+# Mathematics from Zero
+Learn mathematics from the ground up starting at zero.
